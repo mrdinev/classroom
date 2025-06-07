@@ -16,6 +16,7 @@ toc: false
 -   To be able to compare data sets using parallel box plots
 
 
+
 ### Success Criteria
 
 -   [ ] I can construct a box plot from a five figure summary
@@ -25,12 +26,13 @@ toc: false
 
 
 ## 🌉 Bridge
-
+![image](https://github.com/user-attachments/assets/868fad9a-5211-48d1-843c-250ceaca211c)
 
 ### Lesson Starter (15 minutes)
 <br>Teacher will facilitate the lesson starter activity and class discussion to activate prior learning.
 
 ## Discover
+![image](https://github.com/user-attachments/assets/987cdf6c-72fe-4dc2-a75f-2666d4f862b9)
 
 
 ### Teacher will explain new content and key knowledge (15 minutes)
