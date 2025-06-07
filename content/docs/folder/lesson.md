@@ -41,12 +41,15 @@ toc: false
 ## 🖊️ Achieve
 
 
+
 ### Learning Activity (30 minutes)
 
 -   [ ] Building Understanding Q 1,2
 -   [ ] Questions 1,3,5,6 from Chapter in Textbook
 -   [ ] Progress Quiz
 -   [ ] Any incomplete work from the Statistics unit
+
+![image](https://hackmd.io/_uploads/SkA-NHG7ge.png)
 
 
 **Questions from Exercise 9D**
